@@ -1,0 +1,19 @@
+img {
+    width: 60%;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+footer {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    height: 100px;
+}
+
+footer a {
+    padding: 50px;
+}
